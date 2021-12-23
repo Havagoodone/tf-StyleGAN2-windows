@@ -36,9 +36,9 @@ If you need more details, visit [StyleGAN2](https://github.com/NVlabs/stylegan2)
   'C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx64/x64'
   
  **Changed)**
-  'C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64'
+  'C:/Program Files (x86)/Microsoft Visual Studio/**2017**/Community/VC/Tools/MSVC/**14.16.27023**/bin/Hostx64/x64'
    
-  (I'm using visual studio 2017, 14.16.27023)
+  (I'm using visual studio **2017, 14.16.27023**)
   
   * nvcc fatal   : Value 'sm_86' is not defined for option 'gpu-architecture'
 
