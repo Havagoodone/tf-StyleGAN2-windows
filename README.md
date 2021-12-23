@@ -44,7 +44,7 @@ If you need more information, visit [StyleGAN2](https://github.com/NVlabs/styleg
 
 -> Upgrade cudatoolkit version or make a new env with upgraded cudatoolkit version. It would be happend because you have a recent version of GPU.
 
-# Running code
+# Code For Running
  
 **Test 1)**
 python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq-config-f.pkl --seeds=6600-6625 --truncation-psi=0.5
