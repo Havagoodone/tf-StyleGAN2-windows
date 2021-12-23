@@ -1,5 +1,6 @@
 # [StyleGAN2 by NVIDIA](https://github.com/NVlabs/stylegan2)
-Baisc Setting and Informations For StyleGAN2 with tensorflow by NVIDIA
+Basic Setting and Informations For StyleGAN2 by NVIDIA with tensorflow 
+* Paper: http://arxiv.org/abs/1912.04958
 
 If you need more details, visit [StyleGAN2](https://github.com/NVlabs/stylegan2)
 
@@ -54,9 +55,11 @@ python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq
 
 # Results
 **TEST 1 ) total elapsed time : 19 min 23 sec**
-**One of Test 1 results**
+
+**One of Test 1 Results**
 ![Result 1](https://user-images.githubusercontent.com/96462185/147219811-9713d3b2-6337-4b66-8270-ab14b86c6047.png)
 
 **TEST 2 ) total elapsed time : 18 min 8 sec**
-**One of Test 2 results**
+
+**One of Test 2 Results**
 ![Reuslt 2](https://user-images.githubusercontent.com/96462185/147219816-dd9ac8e2-7b9d-4eed-ae44-d878e5a45f4a.png)
