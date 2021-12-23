@@ -42,7 +42,7 @@ If you need more details, visit [StyleGAN2](https://github.com/NVlabs/stylegan2)
   
   * nvcc fatal   : Value 'sm_86' is not defined for option 'gpu-architecture'
 
--> Upgrade cudatoolkit version or make a new env with upgraded cudatoolkit version. It would be happend because you have a recent version of GPU.
+-> Upgrade cudatoolkit version or make a new env with upgraded cudatoolkit version. It might be happend because you had a recent version of GPU.
 
 # Code For Running
  
