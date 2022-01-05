@@ -32,6 +32,7 @@ If you need more details, visit [StyleGAN2](https://github.com/NVlabs/stylegan2)
 2. Open custom_ops.py file in dnnlib.tflib.ops, and then edit 'complier_bindir_search_path'.
  
  **Ex) Change Original Path to Yours**
+ 
   
  **OG)**
   'C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx64/x64'
