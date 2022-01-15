@@ -64,3 +64,4 @@ python run_generator.py generate-images --network=gdrive:networks/stylegan2-ffhq
 
 **One of Test 2 Results**
 ![Reuslt 2](https://user-images.githubusercontent.com/96462185/147219816-dd9ac8e2-7b9d-4eed-ae44-d878e5a45f4a.png)
+
